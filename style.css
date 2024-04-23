@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('1985419.jpg');
+}
+
+canvas {
+  border: 2px solid black;
+  display: block;
+  margin: auto;
+  background-image: url('12.jpg');
+}
